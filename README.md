@@ -1,0 +1,2 @@
+# ECOLE-42-BANGKOK
+#batch_7
